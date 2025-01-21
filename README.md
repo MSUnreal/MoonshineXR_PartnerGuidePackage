@@ -6,12 +6,12 @@
 * Scene performance testing
 * Previs tool
 
-[MoonshineXRPluginLite_User_Guide_EN_1.3.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/Plugins/MoonshineXRPluginLite_User_Guide_EN_1.3.0.md)
+[MoonshineXRPluginLite_User_Guide_EN_1.3.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/5.1/Plugins/MoonshineXRPluginLite_User_Guide_EN_1.3.0.md)
 
 ### ICVFX_Level_Design_Guide_Table_EN_1.1.0.md
 >To work collaboratively with our partners to produce better scene quality, we kindly ask our partners to refer to the level design guidelines specifications established by MoonshineXR for ICVFX projects.
 
-[ICVFX_Level_Design_Guide_Table_EN_1.1.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/ICVFX_Level_Design_Guide_Table_EN_1.1.0.md)
+[ICVFX_Level_Design_Guide_Table_EN_1.1.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/5.1/ICVFX_Level_Design_Guide_Table_EN_1.1.0.md)
 
 <br>
 
@@ -26,19 +26,19 @@
     |-- _GenericVPXR <---(Project Name)                         
         |-- OutDoorScene <---(Scene: Outdoor scene)
         |   |-- Maps  
-        |   |   |-- _OutDoorScene.umap  
-        |   |   |--OutDoorScene_Light.umap  
-        |   |   |--OutDoorScene_Props.umap  
+        |   |   |-- OutDoorScene.umap  
+        |   |   |-- OutDoorScene_Light.umap  
+        |   |   |-- OutDoorScene_Props.umap  
         |-- NatureEnv <---(Scene: Nature scene)                               
         |   |-- Maps                               
-        |   |   |-- _NatureEnv.umap                               
+        |   |   |-- NatureEnv.umap                               
         |   |   |-- NatureEnv_Light.umap                               
         |   |   |-- NatureEnv_Props.umap                               
         |-- Office <---(Scene: Office)  
         |   |-- Maps  
-        |   |   |-- _Office.umap  
-        |   |   |--  Office_Light.umap  
-        |   |   |--  Office_Props.umap  
+        |   |   |-- Office.umap  
+        |   |   |-- Office_Light.umap  
+        |   |   |-- Office_Props.umap  
 ~~~
 
 4. Please provide the necessary information regarding Sequencer, Blueprint, Niagara System, Alembic, time control, special requirements, etc. inside a Readme.txt file located in the project folder, so that the Dreamtech execution team is informed.
@@ -54,12 +54,12 @@
 * 場景效能檢測
 * Previs模擬工具
 
-[MoonshineXRPluginLite_使用說明_中文_1.3.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/Plugins/MoonshineXRPluginLite_%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E_%E4%B8%AD%E6%96%87_1.3.0.md)
+[MoonshineXRPluginLite_使用說明_中文_1.3.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/5.1/Plugins/MoonshineXRPluginLite_%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E_%E4%B8%AD%E6%96%87_1.3.0.md)
 
 ### ICVFX_場景設計_規範_中文_1.1.0.md
 >為了與合作夥伴們一同協力製作出更好的場景品質，請合作夥伴參照 MoonshineXR 為ICVFX類型的專案訂定的場景設計製作規範
 
-[ICVFX_場景設計_規範表_中文_1.1.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/main/ICVFX_%E5%A0%B4%E6%99%AF%E8%A8%AD%E8%A8%88_%E8%A6%8F%E7%AF%84%E8%A1%A8_%E4%B8%AD%E6%96%87_1.1.0.md)
+[ICVFX_場景設計_規範表_中文_1.1.0.md](https://github.com/MSUnreal/MoonshineXR_PartnerGuidePackage/blob/5.1/ICVFX_%E5%A0%B4%E6%99%AF%E8%A8%AD%E8%A8%88_%E8%A6%8F%E7%AF%84%E8%A1%A8_%E4%B8%AD%E6%96%87_1.1.0.md)
 
 <br>
 
@@ -75,19 +75,19 @@
     |-- _GenericVPXR <---(專案名稱)                         
         |-- OutDoorScene <---(場景: 室外景)
         |   |-- Maps  
-        |   |   |-- _OutDoorScene.umap  
-        |   |   |--OutDoorScene_Light.umap  
-        |   |   |--OutDoorScene_Props.umap  
+        |   |   |-- OutDoorScene.umap  
+        |   |   |-- OutDoorScene_Light.umap  
+        |   |   |-- OutDoorScene_Props.umap  
         |-- NatureEnv <---(場景: 自然景)                               
         |   |-- Maps                               
-        |   |   |-- _NatureEnv.umap                               
+        |   |   |-- NatureEnv.umap                               
         |   |   |-- NatureEnv_Light.umap                               
         |   |   |-- NatureEnv_Props.umap                               
         |-- Office <---(場景: 辦公室)  
         |   |-- Maps  
-        |   |   |-- _Office.umap  
-        |   |   |--  Office_Light.umap  
-        |   |   |--  Office_Props.umap  
+        |   |   |-- Office.umap  
+        |   |   |-- Office_Light.umap  
+        |   |   |-- Office_Props.umap  
 ~~~
 
 4. 請將場景內需要使用的Sequencer、Blueprint、Niagara System、Alembic、時間控制、特殊需求等等資訊，撰寫在專案資料夾內的Readme.txt文件，告知夢想技術執行團隊。
